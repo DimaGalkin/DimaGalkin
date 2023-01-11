@@ -19,4 +19,4 @@
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
  </p>
 
- > I may know more languages than are up there as I don't update this often and I constantly try to learn new things
+ > Note: I may know more languages than are up there as I don't update this often and I constantly try to learn new things
