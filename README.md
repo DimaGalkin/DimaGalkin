@@ -6,7 +6,7 @@
 - 📫 **How to reach me: dim.galkin@gmail.com**
 - ⚡ **Fun fact: I've been coding since I was 11**
 
-<h3 align = "left"><i>Tools "under my belt"</i><br><br></h3>
+<h3 align = "left"><i>Tools "under my belt"</i><br></h3>
  <p>
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
