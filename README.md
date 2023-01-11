@@ -6,7 +6,7 @@
 - 📫 **How to reach me: dim.galkin@gmail.com**
 - ⚡ **Fun fact: I've been coding since I was 11**
 
-<h3 align = "left"><i>Tools "under my belt"</i><br></h3>
+<h3 align = "left"><i>Tools I can use</i><br></h3>
  <p>
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
@@ -27,14 +27,12 @@
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
- <img width = 40 height = 40 src = "">
- <img width = 40 height = 40 src = "">
- <img width = 40 height = 40 src = "">
- <img width = 40 height = 40 src = "">
- <img width = 40 height = 40 src = "">
- <img width = 40 height = 40 src = "">
- <img width = 40 height = 40 src = "">
- <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  
  
  </p>
