@@ -4,7 +4,7 @@
 🔭 **I’m currently working on a 64 bit C++ Operating System**\
 🌱 **I’m currently learning C++, React**
 
-<h3 align = "left"> Tools "under my belt"</h3>
+<h3 align = "left"> Tools "under my belt"\
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
@@ -14,3 +14,4 @@
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+</h3>
