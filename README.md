@@ -4,5 +4,5 @@
 🔭 **I’m currently working on a 64 bit C++ Operating System**\
 🌱 **I’m currently learning C++, React**
 
-<h2> Tools </h2>
+<h4> Tools "under my belt"</h4>
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
