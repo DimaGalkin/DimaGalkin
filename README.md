@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a 64 bit C++ Operating System
+🔭 I’m currently working on a 64 bit C++ Operating System\
 🌱 I’m currently learning C++, React
 
 <!--
