@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋, I am a full stack developer expanding my knowledge</h3><br>
 
 
-- 🔭 **I’m currently working on a <a href = "https://github.com/OSDEV-PROJECT">64 bit C++ Operating System**</a>
+- 🔭 **I’m currently working on a <a href = "https://github.com/OSDEV-PROJECT">64 bit C++ Operating System</a> as a successor to <a href = "https://github.com/DimaGalkin/Kernel-C" Kernel-C</a>, a C based 32 bit Kernel**
 - 🌱 **I’m currently learning C++, React**
 - 📫 **How to reach me: dim.galkin@gmail.com**
 - ⚡ **Fun fact: I've been coding since I was 11**
