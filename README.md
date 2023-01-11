@@ -5,5 +5,12 @@
 🌱 **I’m currently learning C++, React**
 
 <h3 align = "left"> Tools "under my belt"</h3>
-<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
-<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
+<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
