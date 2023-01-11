@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a 64 bit C++ Operating System
+🌱 I’m currently learning C++, React
+
 <!--
 **DimaGalkin/DimaGalkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
