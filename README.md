@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋, I am a full stack developer expanding my knowledge</h3>
+<h3 align="center">Hi there 👋, I am a full stack developer expanding my knowledge</h3><br><br>
 
 
 🔭 **I’m currently working on a 64 bit C++ Operating System**\
