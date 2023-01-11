@@ -5,7 +5,7 @@
 - 🌱 **I’m currently learning C++, React**
 - ⚡ **Fun fact: I've been coding since I was 11**
 
-<h3 align = "left"> Tools "under my belt"<br><br>
+<h3 align = "left"> ***Tools "under my belt"***<br><br>
   <p>
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
