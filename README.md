@@ -17,6 +17,26 @@
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ <img width = 40 height = 40 src = "">
+ 
+ 
  </p>
 
  > Note: I may know more languages than are up there as I don't update this often and I constantly try to learn new things
