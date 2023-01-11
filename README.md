@@ -3,6 +3,7 @@
 
 - 🔭 **I’m currently working on a <a href = "https://github.com/OSDEV-PROJECT">64 bit C++ Operating System**</a>
 - 🌱 **I’m currently learning C++, React**
+- 📫 **How to reach me: dim.galkin@gmail.com**
 - ⚡ **Fun fact: I've been coding since I was 11**
 
 <h3 align = "left"><i>Tools "under my belt"</i><br><br>
