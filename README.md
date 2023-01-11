@@ -31,7 +31,7 @@
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg">
- <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  
  
