@@ -3,6 +3,7 @@
 
 - 🔭 **I’m currently working on a 64 bit C++ Operating System**\
 - 🌱 **I’m currently learning C++, React**
+- ⚡ 
 
 <h3 align = "left"> Tools "under my belt"<br><br>
   <p>
