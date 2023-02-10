@@ -20,7 +20,7 @@
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
- <img width = 40 height = 40 src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
  <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
