@@ -3,7 +3,6 @@
 
 - 🔭 **I’m currently working on <a href = "https://github.com/DimaGalkin">Random Projects</a>**
 - 🌱 **I’m currently learning C++, Solidity**
-- ⚡ **Fun fact: I've been coding since I was 11**
 
 <h3 align = "left"><i>Some stuff I've Learned</i><br></h3>
  <p>
