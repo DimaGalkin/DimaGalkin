@@ -1,13 +1,11 @@
-<h3 align="center">Hi there 👋, I am a full stack developer expanding my knowledge</h3><br>
+<h3 align="center">Hi there 👋, I do random projects, check my projects tab to see them</h3><br>
 
 
 - 🔭 **I’m currently working on <a href = "https://github.com/DimaGalkin">Random Projects</a>**
 - 🌱 **I’m currently learning C++, Solidity**
-- 💬 **Ask me about anything you need help with.**
-- 📫 **How to reach me: dim.galkin@gmail.com**
 - ⚡ **Fun fact: I've been coding since I was 11**
 
-<h3 align = "left"><i>Tools I can use</i><br></h3>
+<h3 align = "left"><i>Some stuff I've Learned</i><br></h3>
  <p>
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img width = 40 height = 40 src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
