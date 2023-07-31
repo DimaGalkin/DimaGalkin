@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋, I am a full stack developer expanding my knowledge</h3><br>
 
 
-- 🔭 **I’m currently working on a <a href = "https://github.com/DimaGalkin">Blockchain Game</a>**
+- 🔭 **I’m currently working on <a href = "https://github.com/DimaGalkin">Random Projects</a>**
 - 🌱 **I’m currently learning C++, Solidity**
 - 💬 **Ask me about anything you need help with.**
 - 📫 **How to reach me: dim.galkin@gmail.com**
