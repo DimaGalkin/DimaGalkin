@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋, I do random projects, check my projects tab to see them</h3><br>
+<h3 align="center">Hi there 👋, I do random projects, check my repository tab to see them</h3><br>
 
 
 - 🔭 **I’m currently working on <a href = "https://github.com/DimaGalkin">Random Projects</a>**
