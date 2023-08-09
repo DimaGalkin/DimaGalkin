@@ -2,7 +2,7 @@
 
 
 - 🔭 **I’m currently working on <a href = "https://github.com/DimaGalkin?tab=repositories">Random Projects</a>**
-- 🌱 **I’m currently learning C++, Solidity**
+- 🌱 **I’m currently learning C++, Haskell**
 
 <h3 align = "left"><i>Some stuff I've Learned</i><br></h3>
  <p>
