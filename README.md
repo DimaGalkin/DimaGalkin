@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋, I do random projects, check my repository tab to see them</h3><br>
 
 
-- 🔭 **I’m currently working on <a href = "https://github.com/DimaGalkin">Random Projects</a>**
+- 🔭 **I’m currently working on <a href = "https://github.com/DimaGalkin?tab=repositories">Random Projects</a>**
 - 🌱 **I’m currently learning C++, Solidity**
 
 <h3 align = "left"><i>Some stuff I've Learned</i><br></h3>
